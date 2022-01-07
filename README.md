@@ -9,7 +9,7 @@ Cyber Security
 
 ### 🔭 Experience
 - Summer Global Field Training in EPITA, France (2018.07)
-- Ewha Security E-COPS (2018.09 ~ 2019.08, 2021.03 ~ 2021.06)
+- Ewha Security Studying Club E-COPS (2018.09 ~ 2019.08, 2021.03 ~ 2021.06)
 - Ewha W. Univ. SPAI Lab Internship (2021.07 ~ present)
 - GDSC Ewha Core Member (2021.09 ~ present)
 
