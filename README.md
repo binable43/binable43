@@ -1,9 +1,9 @@
 ## 👋 Hi there, I'm EunBin Lee! 
 
-🏫 Cyber Security Student at Ewha Womans University  
+🏫 Cyber Security Student at Ewha Womans University
+
 🌱 I’m currently learning Machine Learning and Deep Learning
 Cyber Security  
-📩 How to reach me [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:puella208@gmail.com)](mailto:puella208@gmail.com)
 
 ## 
 
