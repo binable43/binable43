@@ -2,7 +2,9 @@
 
 🏫 Cyber Security Student at Ewha Womans University
 
-🌱 I’m currently learning Machine Learning, Deep Learning and Cyber Security  
+🌱 My interests are **Machine Learning, Deep Learning and Cyber Security**  
+
+🙇‍♀️ I’m currently studying Spring, MLOps and Deep Learning
 
 ## 
 
