@@ -11,8 +11,12 @@
 ### 🔭 Experience
 - Summer Global Field Training in EPITA, France (2018.07)
 - Ewha Security Studying Club E-COPS (2018.09 ~ 2019.08, 2021.03 ~ 2021.06)
-- Ewha W. Univ. SPAI Lab Internship (2021.07 ~ present)
-- GDSC Ewha Core Member (2021.09 ~ present)
+- GDSC Ewha Core Member (2021.09 ~ 2022.08)
+- EURON Ewha AI/Data Analysis Club Official (2022.08 ~ present)
+- Ewha W. Univ. SPAI Lab Undergraduate Researcher (2021.07 ~ present)
+
+## 
+
 
 ### ✏️ Available
 <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/></a>
