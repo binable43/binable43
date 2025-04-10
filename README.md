@@ -1,19 +1,11 @@
 ## 👋 Hi there, I'm EunBin Lee! 
 
-🏫 Cyber Security Student at Ewha Womans University
-
-🌱 My interests are **Machine Learning, Deep Learning and Cyber Security**  
-
-🙇‍♀️ I’m currently studying Spring, MLOps and Deep Learning
-
-## 
 
 ### 🔭 Experience
-- Summer Global Field Training in EPITA, France (2018.07)
-- Ewha Security Studying Club E-COPS (2018.09 ~ 2019.08, 2021.03 ~ 2021.06)
-- GDSC Ewha Core Member (2021.09 ~ 2022.08)
-- EURON Ewha AI/Data Analysis Club Official (2022.08 ~ present)
-- Ewha W. Univ. SPAI Lab Undergraduate Researcher (2021.07 ~ present)
+- Ewha Womans University, Summer Global Field Training in EPITA, France (2018.07)
+- Ewha Security Studying Club, E-COPS (2018.09 ~ 2019.08, 2021.03 ~ 2021.06)
+- Google Developer Student Club (GDSC), Ewha, Core Member (2021.09 ~ 2022.08)
+- Ewha Womans University, Security and Privacy AI Lab, Undergraduate Researcher (2021.07 ~ 2023.02)
 
 ## 
 
@@ -22,8 +14,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=flat-square&logo=Pytorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=flat-square&logo=Tensorflow&logoColor=white"/></a>
@@ -31,11 +21,9 @@
 <br>
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
 
